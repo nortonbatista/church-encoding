@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+type IDENTITY<T = any> = (x: T) => T
